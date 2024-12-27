@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+.header{
+	color:white;
+	background-color:black;
+	padding:10px;
+	text-align:center;
+	
+}
+.latest-news-section{
+	background-color:whitesmoke;
+	width:200px;
+	
+	
+}
+.main{background-color:whitesmoke;
+	width:300px;
+	padding:10px;
+	 text-align:center;
+	 }
+.pictorial-news-section{
+	background-color:whitesmoke;
+	width:200px;
+	padding:10px;
+	 text-align:center;}
+img{
+	width:200px
+}
+.forflex{
+	display:flex;
+	justify-content:space-between
+}
